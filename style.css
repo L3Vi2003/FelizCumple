@@ -11,7 +11,7 @@ body{
     height: 100%;
     background-color: #f5f5f5;
     box-shadow: 0 30px 50px #dbdbdb;
-    padding: 0; /* Eliminar el padding */
+  
 }
 #slide{
     width: max-content;
