@@ -110,7 +110,7 @@ body{
     height: 50px;
 }
 /* Estilos para dispositivos móviles */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: auto) {
     .container {
       padding: 20px;
     }
@@ -122,3 +122,7 @@ body{
     
     /* Otros estilos específicos para dispositivos móviles */
   }
+img {
+    max-width: 100%;
+    height: auto;
+}
