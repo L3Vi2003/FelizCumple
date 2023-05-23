@@ -110,7 +110,8 @@ body{
     height: 50px;
 }
 /* Estilos para dispositivos móviles */
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 600px
+) {
     .container {
         width: 100%;
         height: auto;
